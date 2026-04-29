@@ -33,4 +33,4 @@ The evaluation compares pane-aware, pane-blind, and replay-assisted settings to 
 
 ## Hero Image Source
 
-The GitHub Pages hero image uses the shared tmux CUA screenshot, copied into `docs/assets/hero.png` at its original 1484x1060 PNG resolution.
+The GitHub Pages hero image uses a 700x500 version of the shared tmux CUA screenshot, copied into `docs/assets/hero.png` and displayed below the page title at its native size.
